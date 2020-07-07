@@ -6,7 +6,7 @@
 ![Diagram of neural network](./diagram.png)
 
 ## Information
-- Datset: [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
+- Dataset: [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - Optimizer: [adam](https://keras.io/api/optimizers/adam/)
 - Loss: SparseCategoricalCrossentropy
 - Metrics: accuracy
@@ -23,7 +23,7 @@
 # Clone the repository
 $ https://github.com/liu-boltz/machine-learning-tutoriais.git
 
-$ cd keras-basics
+$ cd keras-basics/basic-image-classification
 
 # install the dependencies
 # pip install --upgrade pip
